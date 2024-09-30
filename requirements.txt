@@ -1,5 +1,3 @@
-flask
-requests
-beautifulsoup4
-streamlink
-gunicorn
+Flask==2.3.2
+streamlink==3.5.0
+requests==2.31.0
